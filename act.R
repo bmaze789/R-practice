@@ -27,5 +27,3 @@ info
 permutation(class1)
 permutation(class2)
 
-#I would choose class 1 because according to the pvalue (0.12) you're more 
-#likely to increase your score by 1 point or more than you would with class 2
