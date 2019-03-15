@@ -23,5 +23,3 @@ p.value <- mean(copy <= observed.test.statistic)
 p.value
 
 
-#The pvalue is 0.43 which means the probablity of finding the observed or more extreme is likely
-#The Ftest is close to being valid but it's not perfect
